@@ -4,7 +4,8 @@ Welcome to Learning Session
 
 today I got to learn about Git and GitHub
 Learnt about creating Repository 
-
+Learnt about Commits
+Got to know about Using commit command
 
 
 Thank You :)
